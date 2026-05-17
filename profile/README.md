@@ -77,7 +77,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 - 2025-10 — [Battling Laravel's Sneaky DELETEs](https://dev.to/tegos/battling-laravels-sneaky-deletes-how-i-got-order-by-and-limit-to-play-nice-with-joins-ng9) — [source](https://github.com/tegos-blog/article-battling-laravels-sneaky-deletes)
 - 2025-09 — [Laravel Cache Tip: Avoid Redundant has/missing Calls](https://dev.to/tegos/laravel-cache-tip-avoid-redundant-hasmissing-calls-4hi1) — [source](https://github.com/tegos-blog/article-laravel-cache-tip-avoid-redundant-has-missing-calls)
 - 2025-08 — [Optimize Vendor Folder Size](https://dev.to/tegos/optimize-vendor-folder-size-1m01) — [source](https://github.com/tegos-blog/article-optimize-vendor-folder-size)
-- 2025-08 — [Laravel Actions and Services](https://dev.to/tegos/laravel-actions-and-services-360d) — [source](https://github.com/tegos-blog/article-laravel-actions-and-services)
+- 2025-08 — [Laravel Actions and Services](https://dev.to/tegos/laravel-actions-and-services-360d) — [source](https://github.com/tegos/laravel-action-and-service-guideline)
 - 2025-06 — [Managing Hierarchical Data in Laravel](https://dev.to/tegos/managing-hierarchical-data-in-laravel-b9k) — [source](https://github.com/tegos-blog/article-laravel-managing-hierarchical-data)
 - 2025-04 — [Pessimistic & Optimistic Locking in Laravel](https://dev.to/tegos/pessimistic-optimistic-locking-in-laravel-23dk) — [source](https://github.com/tegos-blog/article-pessimistic-optimistic-locking-in-laravel)
 - 2025-04 — [Should You Use Laravel Seeders/Factories in Production?](https://dev.to/tegos/should-you-use-laravel-seedersfactories-in-production-51ai) — [source](https://github.com/tegos-blog/article-should-you-use-laravel-seeders-factories-in-production)
