@@ -1,4 +1,4 @@
-# Notes from real-world Laravel — @tegos
+# Laravel, after the happy path — @tegos
 
 Senior Laravel/PHP engineer. I write about the gotchas, perf cliffs, and quiet design choices that production code teaches you — the kind of stuff that doesn't show up in framework docs.
 
