@@ -15,7 +15,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 - [Don't Let Your Staging Server Die: Separate Task Scheduling in Laravel](https://dev.to/tegos/dont-let-your-staging-server-die-separate-task-scheduling-in-laravel-420o) — One config flag that stops staging from chewing through resources for nothing.
 - [Battling Laravel's Sneaky DELETEs](https://dev.to/tegos/battling-laravels-sneaky-deletes-how-i-got-order-by-and-limit-to-play-nice-with-joins-ng9) — What happens when `ORDER BY` + `LIMIT` + joins hit Eloquent's DELETE.
 - [Laravel Actions and Services](https://dev.to/tegos/laravel-actions-and-services-360d) — When to reach for an Action vs a Service. Plus the mental model that keeps them from collapsing into each other.
-- [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/PLACEHOLDER) — Case study. Ported a client app from jQuery + sprite atlas to Vue 3 + TS + Pinia. Side-by-side GIFs.
+- [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob) — Case study. Ported a client app from jQuery + sprite atlas to Vue 3 + TS + Pinia. Side-by-side GIFs.
 
 ## By topic
 
@@ -58,7 +58,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 - [Pessimistic & Optimistic Locking in Laravel](https://dev.to/tegos/pessimistic-optimistic-locking-in-laravel-23dk)
 - [Should You Use Laravel Seeders/Factories in Production?](https://dev.to/tegos/should-you-use-laravel-seedersfactories-in-production-51ai)
 - [Tip for Using `incrementEach` in Laravel](https://dev.to/tegos/tip-for-using-incrementeach-in-laravel-3mni)
-- [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/PLACEHOLDER)
+- [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob)
 
 ## All articles (newest first)
 
