@@ -1,6 +1,6 @@
 # Laravel, after the happy path — @tegos
 
-I'm a Laravel/PHP backend dev. I write about the gotchas, perf cliffs, and quiet design choices production teaches you. The stuff framework docs skip.
+I'm a Laravel/PHP backend engineer. I write about the gotchas, perf cliffs, and quiet design choices production teaches you. The stuff framework docs skip.
 
 - Articles: [dev.to/tegos](https://dev.to/tegos)
 - LinkedIn: [linkedin.com/in/tegos](https://www.linkedin.com/in/tegos)
