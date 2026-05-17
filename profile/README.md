@@ -62,6 +62,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 
 ## All articles (newest first)
 
+- 2026-05 — [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob) — [source](https://github.com/tegos-blog/article-burger-reborn)
 - 2026-04 — [Why telescope:clear Is Slow and How to Reclaim Disk in Seconds](https://dev.to/tegos/why-telescopeclear-is-slow-and-how-to-reclaim-disk-in-seconds-26of) — [source](https://github.com/tegos-blog/article-telescope-clear-slow-reclaim-disk)
 - 2026-04 — [Laravel `whereDate()` Silently Kills Your Index](https://dev.to/tegos/laravel-wheredate-silently-kills-your-index-2lnf) — [source](https://github.com/tegos-blog/article-laravel-where-date-kills-your-index)
 - 2026-04 — [`$fillable` Has No Context: Why Mass Assignment Breaks Down at Scale](https://dev.to/tegos/fillable-has-no-context-why-mass-assignment-breaks-down-at-scale-3lmj) — [source](https://github.com/tegos-blog/article-mass-assignment-problem-in-laravel)
