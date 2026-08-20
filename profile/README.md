@@ -41,10 +41,13 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 
 ### Deployment / ops
 - [From 20 to 24 LTS: Safe Way to Upgrade Ubuntu on DigitalOcean](https://dev.to/tegos/from-20-to-24-lts-safe-way-to-upgrade-ubuntu-on-digitalocean-4gb)
+- [Composer Update Is Not Safe Anymore](https://dev.to/tegos/composer-update-is-not-safe-anymore-2bcf)
 - [Seamless Nuxt 2 Deployment with GitLab CI/CD and DigitalOcean](https://dev.to/tegos/seamless-nuxt-2-deployment-a-step-by-step-guide-with-gitlab-cicd-and-digitalocean-441d)
 
 ### PHP language
 - [PHP 8.5 Pipe Operator — Is It Worth Using?](https://dev.to/tegos/php-85-pipe-operator-is-it-worth-using-4gig)
+- [PHP Generics Already Exist: They're Just Hidden in PHPDoc](https://dev.to/tegos/php-generics-already-exist-theyre-just-hidden-in-phpdoc-2l0c)
+- [bcrypt and Laravel: 72 Bytes, Not 72 Characters](https://dev.to/tegos/bcrypt-and-laravel-72-bytes-not-72-characters-3jb1)
 - [Why I Avoid PHP Traits (And What I Use Instead)](https://dev.to/tegos/why-i-avoid-php-traits-and-what-i-use-instead-1288)
 - [PHP Enums Are Not Your Bottleneck (Here's Proof)](https://dev.to/tegos/php-enums-are-not-your-bottleneck-heres-proof-1887)
 
@@ -59,9 +62,16 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 - [Should You Use Laravel Seeders/Factories in Production?](https://dev.to/tegos/should-you-use-laravel-seedersfactories-in-production-51ai)
 - [Tip for Using `incrementEach` in Laravel](https://dev.to/tegos/tip-for-using-incrementeach-in-laravel-3mni)
 - [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob)
+- [Hunting Elephants Again: Reviving a Dead Travian Bot with an AI Agent](https://dev.to/tegos/hunting-elephants-again-reviving-a-dead-travian-bot-with-an-ai-agent-4b4l)
+- [wayback-video: Turn Any Site's History into a Video](https://dev.to/tegos/wayback-video-turn-any-sites-history-into-a-video-3542)
 
 ## All articles (newest first)
 
+- 2026-07 — [Hunting Elephants Again: Reviving a Dead Travian Bot with an AI Agent](https://dev.to/tegos/hunting-elephants-again-reviving-a-dead-travian-bot-with-an-ai-agent-4b4l) — [source](https://github.com/tegos-blog/article-hunting-elephants-again)
+- 2026-06 — [bcrypt and Laravel: 72 Bytes, Not 72 Characters](https://dev.to/tegos/bcrypt-and-laravel-72-bytes-not-72-characters-3jb1) — [source](https://github.com/tegos-blog/article-bcrypt-laravel-password-bytes)
+- 2026-06 — [wayback-video: Turn Any Site's History into a Video](https://dev.to/tegos/wayback-video-turn-any-sites-history-into-a-video-3542) — [source](https://github.com/tegos-blog/article-wayback-video)
+- 2026-06 — [Composer Update Is Not Safe Anymore](https://dev.to/tegos/composer-update-is-not-safe-anymore-2bcf) — [source](https://github.com/tegos-blog/article-safe-composer-update)
+- 2026-06 — [PHP Generics Already Exist: They're Just Hidden in PHPDoc](https://dev.to/tegos/php-generics-already-exist-theyre-just-hidden-in-phpdoc-2l0c) — [source](https://github.com/tegos-blog/article-php-generics-rfc)
 - 2026-05 — [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob) — [source](https://github.com/tegos-blog/article-burger-reborn)
 - 2026-04 — [Why telescope:clear Is Slow and How to Reclaim Disk in Seconds](https://dev.to/tegos/why-telescopeclear-is-slow-and-how-to-reclaim-disk-in-seconds-26of) — [source](https://github.com/tegos-blog/article-telescope-clear-slow-reclaim-disk)
 - 2026-04 — [Laravel `whereDate()` Silently Kills Your Index](https://dev.to/tegos/laravel-wheredate-silently-kills-your-index-2lnf) — [source](https://github.com/tegos-blog/article-laravel-where-date-kills-your-index)
