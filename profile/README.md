@@ -65,6 +65,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 - [Tip for Using `incrementEach` in Laravel](https://dev.to/tegos/tip-for-using-incrementeach-in-laravel-3mni)
 - [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob)
 - [Hunting Elephants Again: Reviving a Dead Travian Bot with an AI Agent](https://dev.to/tegos/hunting-elephants-again-reviving-a-dead-travian-bot-with-an-ai-agent-4b4l)
+- [Schema-Valid Is Not Complete: Strict Output Answered 8 of 30](https://dev.to/tegos/schema-valid-is-not-complete-strict-output-answered-8-of-30-8ie)
 
 ### Packages
 - [Efficiently Managing Telescope Entries with laravel-telescope-flusher](https://dev.to/tegos/efficiently-managing-telescope-entries-with-laravel-telescope-flusher-484a)
