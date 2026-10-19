@@ -116,6 +116,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 
 ### Architecture / patterns
 
+- 2026-10 - [Schema-Valid Is Not Complete: Strict Output Answered 8 of 30](https://dev.to/tegos/schema-valid-is-not-complete-strict-output-answered-8-of-30-8ie) - [source](https://github.com/tegos-blog/article-schema-valid-incomplete)
 - 2026-07 - [Hunting Elephants Again: Reviving a Dead Travian Bot with an AI Agent](https://dev.to/tegos/hunting-elephants-again-reviving-a-dead-travian-bot-with-an-ai-agent-4b4l) - [source](https://github.com/tegos-blog/article-hunting-elephants-again)
 - 2026-05 - [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob) - [source](https://github.com/tegos-blog/article-burger-reborn)
 - 2026-04 - [`$fillable` Has No Context: Why Mass Assignment Breaks Down at Scale](https://dev.to/tegos/fillable-has-no-context-why-mass-assignment-breaks-down-at-scale-3lmj) - [source](https://github.com/tegos-blog/article-mass-assignment-problem-in-laravel)
