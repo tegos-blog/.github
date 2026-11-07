@@ -44,6 +44,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 - [Composer Update Is Not Safe Anymore](https://dev.to/tegos/composer-update-is-not-safe-anymore-2bcf)
 
 ### Deployment / ops
+- [Laravel's Missing DB Connect Timeout: Four Attempts, Two Minutes](https://dev.to/tegos/laravels-missing-db-connect-timeout-four-attempts-two-minutes-deb)
 - [From 20 to 24 LTS: Safe Way to Upgrade Ubuntu on DigitalOcean](https://dev.to/tegos/from-20-to-24-lts-safe-way-to-upgrade-ubuntu-on-digitalocean-4gb)
 - [Mail::alwaysTo() Guards One Mailer: The Staging Leak It Leaves Open](https://dev.to/tegos/mailalwaysto-guards-one-mailer-the-staging-leak-it-leaves-open-18pc)
 - [Seamless Nuxt 2 Deployment with GitLab CI/CD and DigitalOcean](https://dev.to/tegos/seamless-nuxt-2-deployment-a-step-by-step-guide-with-gitlab-cicd-and-digitalocean-441d)
@@ -105,6 +106,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 
 ### Deployment / ops
 
+- 2026-11 - [Laravel's Missing DB Connect Timeout: Four Attempts, Two Minutes](https://dev.to/tegos/laravels-missing-db-connect-timeout-four-attempts-two-minutes-deb) - [source](https://github.com/tegos-blog/article-db-connect-timeout)
 - 2026-10 - [Mail::alwaysTo() Guards One Mailer: The Staging Leak It Leaves Open](https://dev.to/tegos/mailalwaysto-guards-one-mailer-the-staging-leak-it-leaves-open-18pc) - [source](https://github.com/tegos-blog/article-laravel-mail-always-to)
 - 2025-11 - [From 20 to 24 LTS: Safe Way to Upgrade Ubuntu on DigitalOcean](https://dev.to/tegos/from-20-to-24-lts-safe-way-to-upgrade-ubuntu-on-digitalocean-4gb) - [source](https://github.com/tegos-blog/article-from-20-to-24-lts-safe-way-to-upgrade-ubuntu-on-digital-ocean)
 - 2024-12 - [Seamless Nuxt 2 Deployment: A Step-by-Step Guide with GitLab CI/CD and DigitalOcean](https://dev.to/tegos/seamless-nuxt-2-deployment-a-step-by-step-guide-with-gitlab-cicd-and-digitalocean-441d) - [source](https://github.com/tegos-blog/article-seamless-nuxt-2-deployment)
