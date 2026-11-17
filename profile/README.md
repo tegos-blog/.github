@@ -20,6 +20,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 ## By topic
 
 ### Laravel performance
+- [PHPStan 2.3 on a Real Laravel App: What Got Faster, What Broke](https://dev.to/tegos/phpstan-23-on-a-real-laravel-app-what-got-faster-what-broke-1d08)
 - [Laravel `whereDate()` Silently Kills Your Index](https://dev.to/tegos/laravel-wheredate-silently-kills-your-index-2lnf)
 - [`whereHas()` vs `whereRelation()`: Readability Over Shortcuts](https://dev.to/tegos/wherehas-vs-whererelation-readability-over-shortcuts-1gk0)
 - [Laravel Cache Tip: Avoid Redundant has/missing Calls](https://dev.to/tegos/laravel-cache-tip-avoid-redundant-hasmissing-calls-4hi1)
@@ -79,6 +80,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 <!-- BEGIN:all-articles -->
 ### Laravel performance
 
+- 2026-11 - [PHPStan 2.3 on a Real Laravel App: What Got Faster, What Broke](https://dev.to/tegos/phpstan-23-on-a-real-laravel-app-what-got-faster-what-broke-1d08) - [source](https://github.com/tegos-blog/article-phpstan-2-3-laravel)
 - 2026-04 - [Why `telescope:clear` Is Slow and How to Reclaim Disk in Seconds](https://dev.to/tegos/why-telescopeclear-is-slow-and-how-to-reclaim-disk-in-seconds-26of) - [source](https://github.com/tegos-blog/article-telescope-clear-slow-reclaim-disk)
 - 2026-04 - [Laravel `whereDate()` Silently Kills Your Index](https://dev.to/tegos/laravel-wheredate-silently-kills-your-index-2lnf) - [source](https://github.com/tegos-blog/article-laravel-where-date-kills-your-index)
 - 2026-01 - [`whereHas()` vs `whereRelation()`: Readability Over Shortcuts](https://dev.to/tegos/wherehas-vs-whererelation-readability-over-shortcuts-1gk0) - [source](https://github.com/tegos-blog/article-where-has-vs-where-relation-readability-over-shortcuts)
