@@ -122,6 +122,7 @@ Each post is its own repo. Prose in `1-article.md`, runnable code when it helps,
 
 ### Architecture / patterns
 
+- 2026-11 - [Laravel RateLimited Jobs: Waiting in Line Burns Your $tries](https://dev.to/tegos/laravel-ratelimited-jobs-waiting-in-line-burns-your-tries-4kfh) - [source](https://github.com/tegos-blog/article-ratelimited-tries)
 - 2026-10 - [app() Is Not Dependency Injection: 18 Calls Down to Zero](https://dev.to/tegos/app-is-not-dependency-injection-18-calls-down-to-zero-k90) - [source](https://github.com/tegos-blog/article-app-is-not-di)
 - 2026-10 - [Schema-Valid Is Not Complete: Strict Output Answered 8 of 30](https://dev.to/tegos/schema-valid-is-not-complete-strict-output-answered-8-of-30-8ie) - [source](https://github.com/tegos-blog/article-schema-valid-incomplete)
 - 2026-07 - [Hunting Elephants Again: Reviving a Dead Travian Bot with an AI Agent](https://dev.to/tegos/hunting-elephants-again-reviving-a-dead-travian-bot-with-an-ai-agent-4b4l) - [source](https://github.com/tegos-blog/article-hunting-elephants-again)
